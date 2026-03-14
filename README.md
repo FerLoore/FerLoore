@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0005,30:2d0a00,60:7c1d00,100:0a0005&height=220&section=header&text=Hi%2C%20I%27m%20FerLoore%20%E2%9C%A6&fontSize=42&fontColor=fff0e0&animation=fadeIn&fontAlignY=38&desc=FORGED%20IN%20CODE%20%C2%B7%20BUILT%20TO%20LAST%20%F0%9F%8C%8B&descAlignY=58&descColor=fb923c&stroke=c2410c&strokeWidth=2" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:0d1117&height=220&section=header&text=%7E%2FFerLoore%20%24&fontSize=36&fontColor=3fb950&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%C2%B7%20BDD%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=58&descColor=8b949e&stroke=3fb950&strokeWidth=1" alt="banner" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=1d9e75&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
@@ -13,7 +13,11 @@
 
 ## 👾 Sobre mí
 
-```typescript
+```bash
+~/FerLoore $ whoami
+> Software Engineer · Full Stack · BDD Enthusiast
+
+~/FerLoore $ cat stack.json
 const ferLoore = {
   role:      "Full Stack Developer",
   focus:     "AgroTech — gestión inteligente de cultivos",
@@ -26,6 +30,9 @@ const ferLoore = {
   methodology: "Scrum / Agile",
   coffee:    Infinity,
 };
+
+~/FerLoore $ _
+```
 ```
 
 > Ingeniero de Software con experiencia técnica en el desarrollo de aplicaciones web y automatización de pruebas.
