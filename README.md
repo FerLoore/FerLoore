@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- BANNER — genera el tuyo en: https://capsule-render.vercel.app -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1d9e75,100:0d1117&height=200&section=header&text=Hi%2C%20I%27m%20FerLoore%20%E2%9C%A6&fontSize=40&fontColor=f0e6c8&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20BDD%20Enthusiast&descAlignY=55&descColor=85b7eb" alt="banner" width="100%"/>
 
-<!-- BADGES DINÁMICOS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=1d9e75&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
-![Commits this month](https://img.shields.io/badge/Commits%20este%20mes-9-7f77dd?style=flat-square)
 
 </div>
 
@@ -16,45 +13,79 @@
 
 ```typescript
 const ferLoore = {
-  role:     "Full Stack Developer",
-  focus:    "AgroTech — gestión inteligente de cultivos",
-  backend:  ["Node.js", "NestJS", "TypeScript", "REST API"],
-  frontend: ["React", "Next.js", "TypeScript"],
-  databases:["PostgreSQL", "MongoDB", "Prisma ORM"],
-  devops:   ["Docker", "Git", "GitHub Actions"],
-  learning: "Arquitecturas escalables & patrones de diseño",
-  coffee:   Infinity,    // ☕
+  role:      "Full Stack Developer",
+  focus:     "AgroTech — gestión inteligente de cultivos",
+  languages: ["Java", "JavaScript", "TypeScript", "C#", "PL/SQL"],
+  backend:   ["Node.js", "Express", "NestJS", ".Net", "REST APIs", "Microservicios"],
+  frontend:  ["React", "Angular", "Next.js", "HTML5/CSS3", "Tailwind"],
+  databases: ["PostgreSQL", "SQL Server", "Oracle", "MongoDB"],
+  devops:    ["Docker", "Git", "Azure DevOps", "CI/CD", "AWS", "Linux"],
+  qa:        ["Selenium", "Postman", "K6", "API Testing"],
+  methodology: "Scrum / Agile",
+  coffee:    Infinity,
 };
 ```
 
-> Apasionado por construir soluciones robustas **end-to-end con TypeScript**.
-> Me especializo en el diseño de **APIs REST**, modelado de bases de datos relacionales y no relacionales,
-> y arquitecturas escalables. Actualmente desarrollando **AgroTech** 🌱 — sistema de gestión de árboles
-> para control de producción, diagnóstico de enfermedades y monitoreo de crecimiento.
+> Desarrollador Full Stack con experiencia end-to-end en Java, TypeScript y C#.
+> Me especializo en **APIs RESTful**, arquitecturas de microservicios, bases de datos relacionales
+> y automatización QA. Actualmente construyendo **AgroTech** 🌱 — sistema de gestión de cultivos.
 
 ---
 
 ## ⚙️ Technology Stack
 
-### Backend
+### 🖥️ Lenguajes & Frameworks
+![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-ef9f27?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### DevOps & Herramientas
+### 🧪 Automatización & QA
+![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7d64ff?style=for-the-badge&logo=k6&logoColor=white)
+
+### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078d7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎨 Diseño & Arquitectura
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservicios-1d9e75?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-378add?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+## 🧠 Habilidades Blandas
+
+<div align="center">
+
+| 🤝 Trabajo Colaborativo | 🎯 Liderazgo Técnico |
+|---|---|
+| 💬 Comunicación Asertiva | 🔍 Pensamiento Analítico |
+| 🧩 Resolución de Problemas | 🔄 Metodología Ágil Scrum |
+| 🚀 Adaptabilidad & Flexibilidad | 🎨 Interfaces de Usuario (UX/UI) |
+| 📚 Aprendizaje Continuo | 🧑‍💼 Atención al Cliente |
+
+</div>
 
 ---
 
@@ -90,7 +121,7 @@ const ferLoore = {
 
 ---
 
-## 📡 Contribuciones
+## 📡 Actividad
 
 <div align="center">
 
