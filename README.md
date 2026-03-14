@@ -14,7 +14,7 @@
 
 ## 👾 Sobre mí
 
-```bash
+bash
 ~/FerLoore $ whoami
 > Software Engineer · Full Stack · BDD Enthusiast
 
@@ -33,8 +33,6 @@ const ferLoore = {
 };
 
 ~/FerLoore $ _
-```
-```
 
 > Ingeniero de Software con experiencia técnica en el desarrollo de aplicaciones web y automatización de pruebas.
 > Mi trabajo se centra en asegurar que el software funcione correctamente mediante la implementación de
