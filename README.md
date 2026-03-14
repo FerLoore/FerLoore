@@ -1,12 +1,8 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&height=60&lines=~/FerLoore+%24+_;&repeat=false" alt="FerLoore"/>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&height=60&lines=~/FerLoore+%24+_;&repeat=false" alt="FerLoore"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Software+Engineer+%7C+Full+Stack+%7C+BDD;TypeScript+%7C+Node.js+%7C+PostgreSQL;Building+AgroTech+%F0%9F%8C%B1" alt="Subtitle typing"/>
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=3fb950&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
