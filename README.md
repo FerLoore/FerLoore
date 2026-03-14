@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- BANNER TERMINAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=~/FerLoore%20%24&fontSize=45&fontColor=3fb950&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Dev%20%C2%B7%20BDD%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descSize=16&descAlign=50&descAlignY=62&descColor=8b949e" width="100%"/>
+<img src="./banner.svg" width="100%" alt="FerLoore Terminal Banner"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=1d9e75&style=flat-square&label=Visitas)
+![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=3fb950&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dieferloore-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieferloore)
 [![Gmail](https://img.shields.io/badge/Gmail-diegoferloorellana@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diegoferloorellana@gmail.com)
