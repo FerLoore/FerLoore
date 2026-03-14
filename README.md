@@ -4,6 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=1d9e75&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dieferloore-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieferloore)
 
 </div>
 
@@ -134,5 +135,7 @@ const ferLoore = {
 <div align="center">
 
 `1011000101010` · Full Stack Developer · Building with TypeScript ✦
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dieferloore-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieferloore)
 
 </div>
