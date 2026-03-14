@@ -5,9 +5,25 @@
       <stop offset="100%" style="stop-color:#161b22"/>
     </linearGradient>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <!-- Clip paths for typing effect on each character group -->
+    <clipPath id="clip-title">
+      <rect x="0" y="90" width="0" height="50">
+        <animate attributeName="width" from="0" to="860" dur="2s" begin="0.5s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-subtitle">
+      <rect x="0" y="140" width="0" height="30">
+        <animate attributeName="width" from="0" to="860" dur="1.5s" begin="2.8s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-prompt">
+      <rect x="0" y="60" width="0" height="25">
+        <animate attributeName="width" from="0" to="300" dur="0.8s" begin="0s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
   </defs>
 
   <!-- Background -->
@@ -40,25 +56,40 @@
   <circle cx="52" cy="16" r="5" fill="#28c840"/>
   <text x="430" y="21" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle">FerLoore — bash — 120×40</text>
 
-  <!-- Prompt line -->
-  <text x="40" y="82" font-family="'Courier New', monospace" font-size="13" fill="#8b949e">~/FerLoore</text>
-  <text x="118" y="82" font-family="'Courier New', monospace" font-size="13" fill="#3fb950"> $</text>
+  <!-- Prompt line (types first) -->
+  <text x="40" y="68" font-family="'Courier New', monospace" font-size="13" fill="#8b949e" clip-path="url(#clip-prompt)">~/FerLoore <tspan fill="#3fb950">$</tspan></text>
 
-  <!-- Main title -->
+  <!-- Main title with typing effect -->
   <text x="430" y="122" font-family="'Courier New', monospace" font-size="38" font-weight="bold"
-    fill="#3fb950" text-anchor="middle" filter="url(#glow)">~/FerLoore $</text>
+    fill="#3fb950" text-anchor="middle" filter="url(#glow)" clip-path="url(#clip-title)">~/FerLoore $</text>
 
-  <!-- Subtitle -->
+  <!-- Subtitle with typing effect -->
   <text x="430" y="152" font-family="'Courier New', monospace" font-size="13"
-    fill="#8b949e" text-anchor="middle">Full Stack Dev · BDD · TypeScript · Node.js</text>
+    fill="#8b949e" text-anchor="middle" clip-path="url(#clip-subtitle)">Full Stack Dev · BDD · TypeScript · Node.js</text>
 
-  <!-- Cursor blink (static) -->
-  <rect x="618" y="107" width="10" height="20" fill="#3fb950" opacity="0.9"/>
+  <!-- Cursor after title — blinks while typing, stays after -->
+  <rect x="634" y="100" width="10" height="26" fill="#3fb950">
+    <!-- Move cursor from right of title to final position -->
+    <animate attributeName="opacity" values="1;1;0;0" dur="0.6s" begin="2.5s" fill="freeze"/>
+  </rect>
 
-  <!-- Bottom accent line -->
-  <rect x="0" y="196" width="860" height="4" fill="#3fb950" opacity="0.6"/>
+  <!-- Cursor after subtitle — appears and blinks -->
+  <rect x="648" y="138" width="8" height="18" fill="#8b949e" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;1;0;1" dur="1s" begin="4.3s" fill="freeze" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Corner decorations -->
-  <text x="810" y="190" font-family="monospace" font-size="10" fill="#3d4a5c">v2.0.1</text>
-  <text x="15" y="190" font-family="monospace" font-size="10" fill="#3d4a5c">1011000101010</text>
+  <!-- Bottom accent line — slides in -->
+  <rect x="0" y="196" width="0" height="4" fill="#3fb950" opacity="0.7">
+    <animate attributeName="width" from="0" to="860" dur="0.6s" begin="0s" fill="freeze"/>
+  </rect>
+
+  <!-- Corner decorations — fade in -->
+  <text x="810" y="190" font-family="monospace" font-size="10" fill="#3d4a5c" opacity="0">
+    v2.0.1
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4s" fill="freeze"/>
+  </text>
+  <text x="15" y="190" font-family="monospace" font-size="10" fill="#3d4a5c" opacity="0">
+    1011000101010
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4s" fill="freeze"/>
+  </text>
 </svg>
