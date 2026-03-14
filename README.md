@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- BANNER TERMINAL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=~%2FFerLoore+%24&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=3fb950&desc=Full+Stack+Dev+%C2%B7+BDD+%C2%B7+TypeScript+%C2%B7+Node.js&descAlign=50&descAlignY=65&descColor=8b949e&descSize=14" alt="banner" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=whoami+%3E+Software+Engineer;cat+stack.json+%3E+Full+Stack+%7C+BDD;git+log+--oneline+%3E+building+AgroTech+%F0%9F%8C%B1" alt="typing svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&customColorList=0,2,12,20&height=200&section=header&text=~/FerLoore%20%24&fontSize=42&fontColor=3fb950&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Dev%20·%20BDD%20·%20TypeScript%20·%20Node.js&descAlignY=55&descColor=8b949e" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=1d9e75&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
