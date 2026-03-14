@@ -2,6 +2,8 @@
 
 <img src="./banner.svg" width="100%" alt="FerLoore Terminal Banner"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=600&height=40&lines=~/FerLoore+%24+whoami;%3E+Software+Engineer+%7C+Full+Stack+%7C+BDD;~/FerLoore+%24+cat+stack.json;%3E+TypeScript+%7C+Node.js+%7C+PostgreSQL;~/FerLoore+%24+git+log+--oneline;%3E+building+AgroTech+%F0%9F%8C%B1" alt="Typing SVG"/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=3fb950&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dieferloore-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieferloore)
@@ -13,7 +15,7 @@
 
 ## 👾 Sobre mí
 
-bash
+\`\`\`bash
 ~/FerLoore $ whoami
 > Software Engineer · Full Stack · BDD Enthusiast
 
@@ -32,6 +34,7 @@ const ferLoore = {
 };
 
 ~/FerLoore $ _
+\`\`\`
 
 > Ingeniero de Software con experiencia técnica en el desarrollo de aplicaciones web y automatización de pruebas.
 > Mi trabajo se centra en asegurar que el software funcione correctamente mediante la implementación de
@@ -121,12 +124,12 @@ const ferLoore = {
 ### 🔧 [AgroTech_BackEnd](https://github.com/FerLoore/AgroTech_BackEnd)
 > API REST para gestión inteligente de cultivos — control de producción, diagnóstico de árboles enfermos y monitoreo de crecimiento.
 
-`TypeScript` · `Node.js` · `PostgreSQL` · `REST API` · `Docker`
+\`TypeScript\` · \`Node.js\` · \`PostgreSQL\` · \`REST API\` · \`Docker\`
 
 ### 🖥️ [AgroTech_Client](https://github.com/FerLoore/AgroTech_Client)
 > Interfaz web del sistema AgroTech. Dashboard interactivo con visualización de datos y estado de cultivos en tiempo real.
 
-`TypeScript` · `React` · `Next.js` · `MongoDB`
+\`TypeScript\` · \`React\` · \`Next.js\` · \`MongoDB\`
 
 ---
 
@@ -142,7 +145,7 @@ const ferLoore = {
 
 <div align="center">
 
-`1011000101010` · Full Stack Developer · Building with TypeScript ✦
+\`1011000101010\` · Full Stack Developer · Building with TypeScript ✦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dieferloore-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieferloore)
 [![Gmail](https://img.shields.io/badge/Gmail-diegoferloorellana@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoferloorellana@gmail.com)
