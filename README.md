@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1d9e75,100:0d1117&height=200&section=header&text=Hi%2C%20I%27m%20FerLoore%20%E2%9C%A6&fontSize=40&fontColor=f0e6c8&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20BDD%20Enthusiast&descAlignY=55&descColor=85b7eb" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0005,30:2d0a00,60:7c1d00,100:0a0005&height=220&section=header&text=Hi%2C%20I%27m%20FerLoore%20%E2%9C%A6&fontSize=42&fontColor=fff0e0&animation=fadeIn&fontAlignY=38&desc=FORGED%20IN%20CODE%20%C2%B7%20BUILT%20TO%20LAST%20%F0%9F%8C%8B&descAlignY=58&descColor=fb923c&stroke=c2410c&strokeWidth=2" alt="banner" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=1d9e75&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
