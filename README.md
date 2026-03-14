@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=~/FerLoore%20%24&fontSize=45&fontColor=3fb950&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Dev%20%C2%B7%20BDD%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descSize=16&descAlign=50&descAlignY=62&descColor=8b949e" width="100%"/>
+<img src="./banner.svg" width="100%" alt="FerLoore Terminal Banner"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=600&height=40&lines=~/FerLoore+%24+whoami;%3E+Software+Engineer+%7C+Full+Stack+%7C+BDD;~/FerLoore+%24+cat+stack.json;%3E+TypeScript+%7C+Node.js+%7C+PostgreSQL;~/FerLoore+%24+git+log+--oneline;%3E+building+AgroTech+%F0%9F%8C%B1" alt="Typing SVG"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=3fb950&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
