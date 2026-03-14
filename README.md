@@ -19,7 +19,7 @@
 > Mi trabajo se centra en asegurar que el software funcione correctamente mediante la implementación de
 > **pruebas automatizadas (Selenium/Appium)** y la gestión de **pipelines de despliegue**.
 > Domino el stack de **JavaScript y Java**, enfocado siempre en escribir código mantenible
-> y resolver problemas técnicos en entornos de producción. Actualmente construyendo **AgroTech** 🌱.
+> y resolver problemas técnicos en entornos de producción. 
 
 ---
 
