@@ -5,6 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=FerLoore&color=1d9e75&style=flat-square&label=Visitas)
 ![GitHub followers](https://img.shields.io/github/followers/FerLoore?style=flat-square&color=378add&label=Seguidores)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dieferloore-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieferloore)
+[![Gmail](https://img.shields.io/badge/Gmail-diegoferloorellana@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diegoferloorellana@gmail.com)
 
 </div>
 
@@ -27,9 +28,11 @@ const ferLoore = {
 };
 ```
 
-> Desarrollador Full Stack con experiencia end-to-end en Java, TypeScript y C#.
-> Me especializo en **APIs RESTful**, arquitecturas de microservicios, bases de datos relacionales
-> y automatización QA. Actualmente construyendo **AgroTech** 🌱 — sistema de gestión de cultivos.
+> Ingeniero de Software con experiencia técnica en el desarrollo de aplicaciones web y automatización de pruebas.
+> Mi trabajo se centra en asegurar que el software funcione correctamente mediante la implementación de
+> **pruebas automatizadas (Selenium/Appium)** y la gestión de **pipelines de despliegue**.
+> Domino el stack de **JavaScript y Java**, enfocado siempre en escribir código mantenible
+> y resolver problemas técnicos en entornos de producción. Actualmente construyendo **AgroTech** 🌱.
 
 ---
 
@@ -137,5 +140,6 @@ const ferLoore = {
 `1011000101010` · Full Stack Developer · Building with TypeScript ✦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dieferloore-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieferloore)
+[![Gmail](https://img.shields.io/badge/Gmail-diegoferloorellana@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoferloorellana@gmail.com)
 
 </div>
