@@ -19,7 +19,7 @@
 > Mi trabajo se centra en asegurar que el software funcione correctamente mediante la implementación de
 > **pruebas automatizadas (Selenium/Appium)** y la gestión de **pipelines de despliegue**.
 > Domino el stack de **JavaScript y Java**, enfocado siempre en escribir código mantenible
-> y resolver problemas técnicos en entornos de producción. Actualmente construyendo **AgroTech** 🌱.
+> y resolver problemas técnicos en entornos de producción.
 
 ---
 
@@ -95,20 +95,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerLoore&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1d9e75&fire=ef9f27&currStreakLabel=85b7eb&border_radius=10" alt="Streak Stats" width="480"/>
 
 </div>
-
----
-
-## 🌱 Proyectos Destacados
-
-### 🔧 [AgroTech_BackEnd](https://github.com/FerLoore/AgroTech_BackEnd)
-> API REST para gestión inteligente de cultivos — control de producción, diagnóstico de árboles enfermos y monitoreo de crecimiento.
-
-`TypeScript` · `Node.js` · `PostgreSQL` · `REST API` · `Docker`
-
-### 🖥️ [AgroTech_Client](https://github.com/FerLoore/AgroTech_Client)
-> Interfaz web del sistema AgroTech. Dashboard interactivo con visualización de datos y estado de cultivos en tiempo real.
-
-`TypeScript` · `React` · `Next.js` · `MongoDB`
 
 ---
 
